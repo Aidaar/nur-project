@@ -15,8 +15,9 @@ import img7 from '../../../assets/logo/img7.png'
 import img8 from '../../../assets/logo/img8.png'
 
 const Clients = () => {
+	
 	return (
-		<div className='partners'>
+		<div className='clients' id='clients'>
 			<div className='container'>
 				<h2>КЛИЕНТЫ</h2>
 				<OwlCarousel className='owl-theme' loop margin={10} items='5' autoplay>
@@ -50,4 +51,4 @@ const Clients = () => {
 	)
 }
 
-export default Clients
+export {Clients}

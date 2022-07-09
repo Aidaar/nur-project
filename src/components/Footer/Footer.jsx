@@ -14,7 +14,7 @@ const Footer = () => {
 			<div className='container'>
 				<ul>
 					<li className='nav-item'>
-						<Link to='/'>Главное</Link>
+						<Link to='footer'>Контакты:</Link>
 					</li>
 					<li className='nav-item'>
 						<a

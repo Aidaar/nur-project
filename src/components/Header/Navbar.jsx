@@ -32,7 +32,7 @@ const Navbar = () => {
 						<Link to='projects'>Проекты</Link>
 					</li>
 					<li className='nav-item'>
-						<Link to='warehouse'>Клиенты</Link>
+						<Link to='/'>Клиенты</Link>
 					</li>
 					<li className='nav-item'>
 						<Link to='news'>Новости</Link>
@@ -41,7 +41,7 @@ const Navbar = () => {
 						<Link to='jobs'>Вакансии</Link>
 					</li>
 					<li className='nav-item'>
-						<Link to='recruiting'>Контакты</Link>
+						<Link to='/'>Контакты</Link>
 					</li>
 				</ul>
 			</nav>

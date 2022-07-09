@@ -50,4 +50,4 @@ const Partners = () => {
 	)
 }
 
-export default Partners
+export  {Partners}
