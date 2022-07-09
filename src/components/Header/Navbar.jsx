@@ -38,7 +38,7 @@ const Navbar = () => {
 						<Link to='excursion'>Новости</Link>
 					</li>
 					<li className='nav-item'>
-						<Link to='recruiting'>Вакансии</Link>
+						<Link to='jobs'>Вакансии</Link>
 					</li>
 					<li className='nav-item'>
 						<Link to='recruiting'>Контакты</Link>
