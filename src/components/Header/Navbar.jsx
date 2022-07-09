@@ -35,7 +35,7 @@ const Navbar = () => {
 						<Link to='warehouse'>Клиенты</Link>
 					</li>
 					<li className='nav-item'>
-						<Link to='excursion'>Новости</Link>
+						<Link to='news'>Новости</Link>
 					</li>
 					<li className='nav-item'>
 						<Link to='jobs'>Вакансии</Link>

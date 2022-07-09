@@ -1,21 +1,62 @@
-.warehouse {
-	background-color: rgba(0, 0, 0, 0.5);
-	color: #fff;
-	height: 100%;
+.news {
 	width: 100%;
-	position: relative;
-	padding-bottom: 2rem;
-	margin-top: 90px;
+}
 
-	.warehouse .container {
-		height: 100%;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		text-align: center;
-		max-width: 700px;
-		margin: auto;
-		padding: 1rem;
+.news .container {
+	width: 1240px;
+	margin: 1rem auto;
+	padding: 1rem 0rem;
+}
+
+.news h2 {
+	font-size: 3rem;
+	text-align: center;
+}
+
+.news .container .content {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 20px;
+	margin: 4rem 0;
+}
+
+.news .card {
+	border: 1px solid #eee;
+	border-radius: 8px;
+	box-shadow: 0 3px 10px rgb(0, 0, 0, 0.2);
+	padding: 1rem;
+}
+
+.news img {
+	// border-radius: 50px;
+	// margin-top: -2rem;
+	width: 100%;
+	min-height: 240px;
+}
+
+.news .card p {
+	color: #787878;
+	font-size: 1.1rem;
+	margin: 12px;
+}
+
+.news .card span {
+	color: var(--primary-color);
+	font-size: 1rem;
+	font-weight: 700;
+}
+
+@media screen and (max-width: 940px) {
+	.news .container {
+		width: 100%;
 	}
 
+	.news .container .content {
+		grid-template-columns: 1fr;
+	}
+
+	.news .card {
+		max-width: 100%;
+		margin: 1rem;
+	}
 }
