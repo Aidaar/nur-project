@@ -5,6 +5,7 @@ import { Notfound } from './pages/Notfound/Notfound'
 import { Home } from './pages/Home/Home'
 import { Jobs } from './pages/Jobs/Jobs'
 import { News } from './pages/News/News'
+import { Projects } from './pages/Projects/Projects'
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 				<Route index element={<Home />} />
 				<Route path='jobs' element={<Jobs />} />
 				<Route path='news' element={<News />} />
+				<Route path='projects' element={<Projects />} />
 				<Route path='*' element={<Notfound />} />
 			</Route>
 		</Routes>

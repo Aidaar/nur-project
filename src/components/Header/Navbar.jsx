@@ -29,7 +29,7 @@ const Navbar = () => {
 						</Link>
 					</li>
 					<li className='nav-item'>
-						<Link to='business'>Проекты</Link>
+						<Link to='projects'>Проекты</Link>
 					</li>
 					<li className='nav-item'>
 						<Link to='warehouse'>Клиенты</Link>
