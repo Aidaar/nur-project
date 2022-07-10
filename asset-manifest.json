@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/nur-project/static/css/main.87a15ba9.css",
+    "main.js": "/nur-project/static/js/main.72d7bf46.js",
+    "static/media/img1.jpg": "/nur-project/static/media/img1.51be61253958c3621ee5.jpg",
+    "static/media/img.jpg": "/nur-project/static/media/img.4f661f619197805f96f5.jpg",
+    "static/media/img2.jpg": "/nur-project/static/media/img2.3ba6f109da18d38668fb.jpg",
+    "static/media/hero.jpg": "/nur-project/static/media/hero.6bffe3fff616b99b994c.jpg",
+    "static/media/img3.jpg": "/nur-project/static/media/img3.be2eb220212a66396811.jpg",
+    "static/media/img8.png": "/nur-project/static/media/img8.898577e80593c47562d5.png",
+    "static/media/img3.png": "/nur-project/static/media/img3.f04cafed843a29feef8e.png",
+    "static/media/img1.png": "/nur-project/static/media/img1.b823e5f6274810a88ab2.png",
+    "static/media/img7.png": "/nur-project/static/media/img7.3128c6df378277199913.png",
+    "static/media/img4.png": "/nur-project/static/media/img4.f32befeb24b71f0e3faa.png",
+    "static/media/img2.png": "/nur-project/static/media/img2.e6d5a4eb2e55e51d62d4.png",
+    "static/media/whatsapp.svg": "/nur-project/static/media/whatsapp.0b6d11c9b208da22704868b59a9140c8.svg",
+    "static/media/instagram.svg": "/nur-project/static/media/instagram.6d4f8b71c82c849bed5f8c290e08f364.svg",
+    "static/media/telegram.svg": "/nur-project/static/media/telegram.2a93c4507eedd7dc6099ddd27cfa2aa7.svg",
+    "static/media/gmail.svg": "/nur-project/static/media/gmail.56b36dbef4a8bdf81a252c83773fa3ba.svg",
+    "index.html": "/nur-project/index.html",
+    "static/media/ok.svg": "/nur-project/static/media/ok.0c5d63751a6753f7c679bad9e0fb6aa0.svg",
+    "main.87a15ba9.css.map": "/nur-project/static/css/main.87a15ba9.css.map",
+    "main.72d7bf46.js.map": "/nur-project/static/js/main.72d7bf46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a15ba9.css",
+    "static/js/main.72d7bf46.js"
+  ]
+}
