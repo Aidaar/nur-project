@@ -1,6 +1,4 @@
 {
-	"homepage": "https://aidaar.github.io/nur-project",
-	"name": "nur-project",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
